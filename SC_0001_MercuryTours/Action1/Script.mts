@@ -1,5 +1,4 @@
-﻿
-WpfWindow("HP MyFlight Sample Application").WpfEdit("agentName").Set "john" @@ hightlight id_;_2130066072_;_script infofile_;_ZIP::ssf2.xml_;_
+﻿WpfWindow("HP MyFlight Sample Application").WpfEdit("agentName").Set "john" @@ hightlight id_;_2130066072_;_script infofile_;_ZIP::ssf2.xml_;_
 WpfWindow("HP MyFlight Sample Application").WpfEdit("password").SetSecure "59f214c3d16dfe52ad5a" @@ hightlight id_;_2073306592_;_script infofile_;_ZIP::ssf4.xml_;_
 WpfWindow("HP MyFlight Sample Application").WpfButton("OK").Click @@ hightlight id_;_2126479584_;_script infofile_;_ZIP::ssf5.xml_;_
 WpfWindow("HP MyFlight Sample Application").WpfComboBox("fromCity").Select "Denver" @@ hightlight id_;_2126482368_;_script infofile_;_ZIP::ssf8.xml_;_
