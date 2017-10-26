@@ -14,3 +14,5 @@ WpfWindow("HP MyFlight Sample Application").WpfEdit("passengerName").Set "John" 
 WpfWindow("HP MyFlight Sample Application").WpfButton("ORDER").Click @@ hightlight id_;_2102994512_;_script infofile_;_ZIP::ssf21.xml_;_
 'WpfWindow("HP MyFlight Sample Application").WpfObject("Order 88 completed").Output CheckPoint("Order 88 completed") @@ hightlight id_;_2104817216_;_script infofile_;_ZIP::ssf22.xml_;_
 WpfWindow("HP MyFlight Sample Application").WpfButton("NEW SEARCH").Click @@ hightlight id_;_1930917176_;_script infofile_;_ZIP::ssf29.xml_;_
+
+WpfWindow("HP MyFlight Sample Application").Close @@ hightlight id_;_528316_;_script infofile_;_ZIP::ssf30.xml_;_
